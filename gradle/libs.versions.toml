@@ -1,0 +1,4 @@
+[versions]
+dokka = "1.8.20"
+[plugins]
+dokka = { id = "org.jetbrains.dokka", version.ref = "dokka" }
