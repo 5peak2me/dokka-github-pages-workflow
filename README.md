@@ -50,7 +50,7 @@ jobs:
 
 change workflow permissions
 
-![2023-07-20_220917](.\assets\2023-07-20_220917.png)
+![2023-07-20_220917](./assets/2023-07-20_220917.png)
 
 
 
